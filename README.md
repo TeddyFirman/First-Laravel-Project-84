@@ -1,8 +1,8 @@
-<h1 align="center">Laravel 8 Perpustakaan</h1>
+<h1 align="center">Laravel 9 Perpustakaan</h1>
 
 ## Author
 
-Laravel 8 pepustakaan dikembangkan oleh :
+Laravel 9 pepustakaan dikembangkan oleh :
 
 - Github : <a href="https://github.com/TeddyFirman"> Tedd404 </a>
 
