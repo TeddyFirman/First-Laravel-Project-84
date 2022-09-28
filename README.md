@@ -116,4 +116,4 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Ber
 
 ## License
 
-- Copyright © 2021 TeddyFirman.
+- Copyright © 2022 TeddyFirman.
